@@ -1,0 +1,22 @@
+{
+  "name": "com.tooensure.offical",
+  "version": "1.0.0",
+  "description": "Portfolio website demostrating my skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tooensure-OpenSource/portfolio.git"
+  },
+  "keywords": [
+    "portfoilio"
+  ],
+  "author": "shawn bellazan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tooensure-OpenSource/portfolio/issues"
+  },
+  "homepage": "https://github.com/Tooensure-OpenSource/portfolio#readme"
+}
